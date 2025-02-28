@@ -6,7 +6,7 @@
   "publisher": "iDanielSoto",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iDanielSoto/dan-theme.git"
+    "url": "https://github.com/iDanielSoto/dan-theme"
   },
   "engines": {
     "vscode": "^1.97.0"
